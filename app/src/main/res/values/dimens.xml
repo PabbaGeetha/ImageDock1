@@ -1,0 +1,12 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="view_radius">20dp</dimen>
+    <dimen name="margin_10dp">10dp</dimen>
+    <dimen name="view_elevation">7dp</dimen>
+    <dimen name="view_height_1dp">1dp</dimen>
+    <dimen name="margin_5dp">5dp</dimen>
+    <dimen name="text_size_16sp">16sp</dimen>
+    <dimen name="text_size_24sp">24sp</dimen>
+    <dimen name="text_size_20sp">20sp</dimen>
+    <dimen name="image_width_height">300dp</dimen>
+</resources>
